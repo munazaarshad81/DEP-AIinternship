@@ -1,0 +1,13 @@
+TASK-1 LINK(TicTac Toe)
+https://github.com/munazaarshad81/Tictactoe-DEP-Ai-
+
+
+TASK-2 LINK(EmailSpam)
+https://github.com/munazaarshad81/emailspam-classifier
+
+
+TASK-3 LINK(Neural Network)
+https://github.com/munazaarshad81/Neuralnetwork
+
+TASK-4 LINK(NLP)
+https://github.com/munazaarshad81/NLP-task4-DEP-
